@@ -1,0 +1,16 @@
+# Envirnoments
+ven/
+env/
+.env/
+
+# Data and Models
+*.csv
+*.dat
+*.pkl
+*.h5
+data/
+
+
+# python Cache
+__pycache__/
+*.pyc
